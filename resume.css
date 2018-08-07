@@ -277,6 +277,11 @@ footer {
   text-align: center;
 }
 
+#image-text {
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+}
+
 .btn {
   display: inline-block;
   color: #fff;
